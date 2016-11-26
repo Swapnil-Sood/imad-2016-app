@@ -3,6 +3,7 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
     background: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
+    
 }
 
 .center {
@@ -20,4 +21,12 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.container{
+        max-width: 800px;
+        margin: 0 auto;
+        color: #8e0a0a;
+        font-family: Harlow Solid Italic;
+        padding-top: 60px;
+        padding-left: 20px;
+        padding-right 20px;
+        }
